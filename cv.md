@@ -3,7 +3,7 @@
 ## Frontend Developer
 
 *Contact information:*
-- +375298937999 
+- +375298372009 
 - [Github](https://github.com/Fnytseu) 
 - [Telegram](https://t.me/Fnytseu)
 ---
