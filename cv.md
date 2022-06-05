@@ -17,10 +17,10 @@ Qualification: Engineer
 - Poduction Unitary Company "TSVETMET" - Structural engineer (2021-present)  
 ---
 *Skills:*
-- Git
-- SQL
 - HTML
 - CSS
 - JS
+- Git
+- SQL
 - English - Intermediate
 - Russian - Native
